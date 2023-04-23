@@ -1,8 +1,23 @@
 # LCI-20230422-中國駐法國大使說：“決定台灣命運的是中國人民”
 
   發表於 2023 年 4 月 21 日晚上 11:15
-  https://www.tf1info.fr/international/video-c-est-le-peuple-chinois-qui-decide-du-destin-de-taiwan-affirme-l-ambassadeur-de-chine-en-france-en-interview-sur-lci-2254881.html
+  [作為本週五 LCI 的嘉賓，中國駐法國大使盧沙野表示，台灣是中國領土“不可分割的一部分”。](https://www.tf1info.fr/international/video-c-est-le-peuple-chinois-qui-decide-du-destin-de-taiwan-affirme-l-ambassadeur-de-chine-en-france-en-interview-sur-lci-2254881.html)
 
-  作為本週五 LCI 的嘉賓，中國駐法國大使盧沙野表示，台灣是中國領土“不可分割的一部分”。
+中國駐法國大使在 20230421 晚上接受法國電視台 LCI 的訪談，其中談到臺灣，中國，烏克蘭，美國，歐洲等許多問題。
+
+在這個訪談中，我覺得我們很清楚看到中國對外正試圖傳遞的訊息，一個想挑戰國際秩序，破壞現有國際規則的強權國家。
+
+在這個訪談中，除了談到臺灣，也談到中國對西歐國家，對美國，對非洲國家，對烏克蘭與對俄羅斯等的態度與立場。透過記者直接的提問，中國駐法國大使給了非常精彩的回答，可以說金句連連。
+
+所以在這我特別花了時間，把影片轉存後，使用 OpenAI 的 Whisper 將切開的 mp3 檔案轉字幕檔。
+
+字幕檔目前是法文，同時是依照每兩分鐘一個檔案的長度切開。
+
+最終我希望可以提供一個中文版的完整訪談內容，因為我覺得身在臺灣的我們，真的都該聽聽中國駐法國大使的發言。
+
+從他的發言，可以聽到的不只是一些在臺灣我們似曾相識的發言和立場，還有中國在談到世界秩序時，臺灣可以看到的轉換契機。
+
+
+  
 
 
